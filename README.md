@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/RJS-ITS/Pipeline%20Testing/_apis/build/status/RSteeno.pipelines-java?branchName=master)](https://dev.azure.com/RJS-ITS/Pipeline%20Testing/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
